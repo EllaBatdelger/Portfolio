@@ -7,7 +7,7 @@ Welcome to my project portfolio! This repository showcases a collection of my da
 
 ## **Projects**
 
-### 1. **[Economic Analysis Project](./Economic_Analysis_Project/README.md)**
+### 1. **[Economic Analysis Project](Economic Analysis Project/README.md)**
 - **Description**: Analyzed unemployment trends across U.S. states using Python, the FRED API, and web scraping.
 - **Highlights**:
   - Automated data collection using APIs.
