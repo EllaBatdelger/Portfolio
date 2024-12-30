@@ -41,5 +41,5 @@ The repository includes the **project presentation PPT**, which summarizes:
 - Create an interactive visualization tool for end-users.
 
 ##### **Acknowledgments**
-Thank you to my teammate, Margaret Nguyen and professor Eren Bilen for their efforts to complete the project and their valuable feedback during the project.
+Thank you to my teammate, Margaret Nguyen, and Professor Eren Bilen for their efforts in completing the project and for providing valuable feedback throughout.
 
