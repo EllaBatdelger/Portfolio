@@ -7,7 +7,17 @@ Welcome to my project portfolio! This repository showcases a collection of my da
 
 ## **Projects**
 
-### 1. **[Economic Analysis Project](./Economic%20Analysis%20Project/README.md)**
+### 1.[Global Stock Index Analysis Project](./Global%20Stock%20Index%20Analysis%20Project/)
+
+- **Description**: Analyzed data from major global stock indices using SQL, Python, and Power BI. Automated data retrieval from Yahoo Finance, calculated key metrics, and created interactive dashboards to visualize trends and performance.
+- **Highlights**:
+  - Scraped data using Python Libraries.
+  - Used SQL to clean and transform the data.
+  - Added new metrics for further analysis.
+  - Created Power BI Dashboard for complete analysis.
+- **Extras**: Includes a detailed project Power BI dashboard that is interactive and easy to use. 
+
+### 2. **[Economic Analysis Project](./Economic%20Analysis%20Project/README.md)**
 - **Description**: Analyzed unemployment trends across U.S. states using Python, the FRED API, and web scraping.
 - **Highlights**:
   - Automated data collection using APIs.
@@ -17,7 +27,7 @@ Welcome to my project portfolio! This repository showcases a collection of my da
 
 ---
 
-### 2. **[University Diversity Score Project](./College%20Diversity%20Score%20Prediction%20Project/README.md)**
+### 3. **[University Diversity Score Project](./College%20Diversity%20Score%20Prediction%20Project/README.md)**
 - **Description**: A collaborative project analyzing and predicting diversity scores for U.S. universities, with a focus on Liberal Arts Colleges.
 - **Highlights**:
   - Predicted student and professor diversity using machine learning.
